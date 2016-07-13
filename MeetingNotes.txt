@@ -1,0 +1,19 @@
+-	Serverless computing – use cloud, do not use server (outsourcing)
+o	You have the ability to tell the cloud to do work
+o	You provide the code, then do not have to worry about needing servers, how to do it, etc. 
+	It is then the cloud providers problem (ex: Amazon) 
+
+-	Unikernels – take container and make it even smaller 
+
+-	Docker - Docker containers wrap a piece of software in a complete filesystem that contains everything needed to run: code, runtime, system tools, and system libraries – anything that can be installed on a server. 
+o	This guarantees that the software will always run the same, regardless of its environment.
+
+-	Microservices – take a big app and chop it into smaller apps 
+o	Ex: Target has a store locator, shopping, etc. 
+	You would make the store locator its own app so you can update it individually without working on the whole site at once 
+	It reduces bugs – if  store locator is down, the rest of the site is still up and running 
+	Allows you to scale between smaller servers
+
+-	Devops – bring developers together to get them to work together (vs. pointing fingers) 
+o	Taking things that are hard and doing them more often
+o	Ex: updates
