@@ -1,3 +1,4 @@
+Day 1
 -	Serverless computing – use cloud, do not use server (outsourcing)
 o	You have the ability to tell the cloud to do work
 o	You provide the code, then do not have to worry about needing servers, how to do it, etc. 
@@ -17,3 +18,27 @@ o	Ex: Target has a store locator, shopping, etc.
 -	Devops – bring developers together to get them to work together (vs. pointing fingers) 
 o	Taking things that are hard and doing them more often
 o	Ex: updates
+
+
+Day 3
+Programming languages - why use one vs. another 
+- fast and fun for humans 
+	- Ruby - popular for devops 
+	- Python - good if you just need to write some scripts to do some automation 
+		- Very popular in data science and analytics
+		- Python programs ususally connect to programs written in Java that do the "heavy lifting" 
+	- Perl - easier to write, nearly impossible to read 
+	- JavaScript - only programming language supported by the browser
+
+- Fast, efficient for computers 
+	- C++ - C written to be object oriented (ex: code for machinery) 
+	- C - write OS in 
+		- Unix written on 
+	- Usually the foundations for learning other languages
+
+- In the middle 
+	- Go 
+	- Java - safe and friendly version of C          --- Java & C# still the most popular 
+	- C# - Microsoft's chlone of Jave                ---
+
+
