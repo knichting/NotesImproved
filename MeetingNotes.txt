@@ -42,3 +42,26 @@ Programming languages - why use one vs. another
 	- C# - Microsoft's chlone of Jave                ---
 
 
+
+Day 4 - Applications 
+- Hard to write applications that run on phone, mac, pc, etc. 
+- All can use command line that runs on a web browser 
+- All web browsers use Javascript 
+
+- Static websites 
+	- html (most simple), tells what should be on it 
+	- CSS - (cascading style sheets) complicated way of telling web page how it should look 
+	- The same every time you look at it except when you change it 
+	- Jekel, Hugo
+	- Don't know who is logged in 
+	- Can add a little Javascript to make it more interesting/dynamic
+	- Can also add a database, but will then want to move to something more dynamic 
+
+- Dynamic website - what it shows depends on something (usually something that is in a database)
+
+- Server side rendering - simple way of having website connected to database 
+
+- Single page app - download page then server doesn't have to do that much
+
+- REST API is most agreed upon way to do it (API's next week)
+- API - easy way to pull things from server and get on website or app 
